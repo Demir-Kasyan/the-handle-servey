@@ -1,0 +1,13 @@
+.entry-grid{
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 7.5%;
+  width: 70%;
+  height: 70%;
+  display: grid;
+    grid-auto-flow: column;
+    grid-gap: 2%;
+}
+mat-card{
+  cursor: pointer;
+}
